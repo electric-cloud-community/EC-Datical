@@ -8,7 +8,7 @@ Three basic procedures implemented:
   2. Forecast - Simulates all change sets that have not been applied to the indicated database reference
   3. Deploy - Simulates all change sets that have not been applied to the indicated database reference
 
-V 1.1.o
+V 1.1.0
 
 Convert to pluginLite format
 
